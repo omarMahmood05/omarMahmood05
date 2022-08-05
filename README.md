@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47w5esd9v196pv0jedn39u6z1tofdmideijv10gf6m&rid=giphy.gif&ct=g" width="200"/>
+</div>
 - 👋 Hi, I’m @omarMahmood05
 - 👀 I’m interested in creating Python and Java applications  
 - 🌱 I’m currently in my final year of my Batchelor's
